@@ -1,0 +1,19 @@
+This project aims to analyze the deforestation trends in the Amazon and Pantanal regions of Brazil over a span of nearly two decades, from 2004 to 2023. By utilizing data from the National Institute for Space Research (INPE), we explore the changes in deforestation rates, comparing both regions and visualizing these trends through various types of plots including line charts, bar graphs, 3D scatter plots, and interactive graphs.
+
+Table of Contents
+Introduction
+Data Sources
+Installation
+Usage
+Visualizations
+Line Chart
+Bar Chart
+3D Scatter Plot
+Interactive Plot
+Contributing
+License
+Introduction
+This project provides visual insights into deforestation trends in the Amazon and Pantanal regions from 2004 to 2023. The visualizations include line charts, bar graphs, 3D scatter plots, and interactive graphs created using Python libraries Matplotlib and Plotly.
+
+Data Sources
+The data used in this project is based on fictional values derived from the text provided and historical trends from the National Institute for Space Research (INPE).
